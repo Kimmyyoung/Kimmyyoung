@@ -35,11 +35,9 @@
 <h2>💙 Summary 💙</h2>
 </div>
 
-<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmyyoung&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmyyoung&theme=synthwave&layout=compact&langs_count=7)
 
-</div>
 
 
 <div align="center">
