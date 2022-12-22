@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?&type=waving&color=auto&height=300&section=header&text=Kim%20Github&fontSize=80&theme=radical&animation=blink&fontAlign=68&stroke=DFD3C3)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=random&height=300&section=header&text=Kim%20Github&fontSize=80&animation=blink&fontAlign=68)
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?&type=waving&color=auto&height=300&section=footer&text=Thank%20you&fontSize=80&theme=radical&animation=blink&fontAlign=32&stroke=DFD3C3)
+![footer](https://capsule-render.vercel.app/api?&type=waving&color=random&height=300&section=footer&text=Thank%20you&fontSize=80&animation=blink&fontAlign=32)
 
 </div>
 
