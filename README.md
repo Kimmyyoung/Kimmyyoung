@@ -1,8 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?&type=waving&color=random&height=300&section=header&text=Kim%20Github&fontSize=80&animation=blink&fontAlign=68)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=gradient&customColorList=0,2,2,5,30&fontColor=F8F4EA&height=300&section=header&text=Kim%20Github&fontSize=80&animation=blink&fontAlign=68)
 
 </div>
+
+<div align="right">
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimmyyoung&count_bg=%23FAD3E7&title_bg=%232392A8&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
 
 <div align="center">
 <h2>🧡 Tech Stack 🧡</h2>
@@ -37,6 +44,7 @@
 
 <div align="center">
   
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmyyoung&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmyyoung&theme=synthwave&layout=compact&langs_count=7)
 
 </div>
@@ -60,7 +68,9 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?&type=waving&color=random&height=300&section=footer&text=Thank%20you&fontSize=80&animation=blink&fontAlign=32)
+  
+
+![footer](https://capsule-render.vercel.app/api?&type=waving&color=gradient&customColorList=0,2,2,5,30&fontColor=F8F4EA&height=300&section=footer&text=Thank%20you&fontSize=80&animation=blink&fontAlign=32)
 
 </div>
 
